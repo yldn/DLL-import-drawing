@@ -1,0 +1,7 @@
+C:\Users\hasee\Desktop\VCProjects\repos\Directdraw\Directdraw\bin\Debug\Directdraw.exe.config
+C:\Users\hasee\Desktop\VCProjects\repos\Directdraw\Directdraw\bin\Debug\Directdraw.exe
+C:\Users\hasee\Desktop\VCProjects\repos\Directdraw\Directdraw\bin\Debug\Directdraw.pdb
+C:\Users\hasee\Desktop\VCProjects\repos\Directdraw\Directdraw\obj\Debug\Directdraw.csprojAssemblyReference.cache
+C:\Users\hasee\Desktop\VCProjects\repos\Directdraw\Directdraw\obj\Debug\Directdraw.csproj.CoreCompileInputs.cache
+C:\Users\hasee\Desktop\VCProjects\repos\Directdraw\Directdraw\obj\Debug\Directdraw.exe
+C:\Users\hasee\Desktop\VCProjects\repos\Directdraw\Directdraw\obj\Debug\Directdraw.pdb
